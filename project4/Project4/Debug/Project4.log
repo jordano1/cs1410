@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\rhuud\dropbox\cs 1410\project4\project4\source.cpp(16): error C2248: 'Point::y': cannot access protected member declared in class 'Point'
+  c:\users\rhuud\dropbox\cs 1410\project4\project4\source.cpp(3): note: see declaration of 'Point::y'
+  c:\users\rhuud\dropbox\cs 1410\project4\project4\source.cpp(1): note: see declaration of 'Point'

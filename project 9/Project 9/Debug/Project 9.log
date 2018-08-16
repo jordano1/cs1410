@@ -1,0 +1,13 @@
+﻿  driver.cpp
+c:\users\user\dropbox\cs 1410\project 9\project 9\list.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Compiling...
+  List.cpp
+c:\users\user\dropbox\cs 1410\project 9\project 9\list.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  book.cpp
+List.obj : error LNK2005: "public: __thiscall Node::Node(class Book *)" (??0Node@@QAE@PAVBook@@@Z) already defined in driver.obj
+List.obj : error LNK2005: "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) already defined in driver.obj
+List.obj : error LNK2005: "public: struct Node * __thiscall Node::getNextNode(void)" (?getNextNode@Node@@QAEPAU1@XZ) already defined in driver.obj
+C:\Users\User\Dropbox\cs 1410\Project 9\Debug\Project 9.exe : fatal error LNK1169: one or more multiply defined symbols found

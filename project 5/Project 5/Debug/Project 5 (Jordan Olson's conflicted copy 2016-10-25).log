@@ -1,0 +1,34 @@
+﻿  driver.cpp
+c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): error C2011: 'Author': 'class' type redefinition
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+c:\users\user\dropbox\cs 1410\project 5\project 5\book.h(3): error C2011: 'Book': 'class' type redefinition
+  c:\users\user\dropbox\cs 1410\project 5\project 5\book.h(3): note: see declaration of 'Book'
+c:\users\user\dropbox\cs 1410\project 5\project 5\audiobook.h(4): error C2504: 'Book': base class undefined
+c:\users\user\dropbox\cs 1410\project 5\project 5\digitalbook.h(5): error C2504: 'Book': base class undefined
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(64): error C2027: use of undefined type 'Author'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(64): error C2661: 'AudioBook::AudioBook': no overloaded function takes 4 arguments
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(65): error C2027: use of undefined type 'Author'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(65): error C2661: 'DigitalBook::DigitalBook': no overloaded function takes 4 arguments
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(66): error C2027: use of undefined type 'Author'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\author.h(18): note: see declaration of 'Author'
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(66): error C2027: use of undefined type 'Book'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\book.h(3): note: see declaration of 'Book'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\book.h(3): note: see declaration of 'Book'
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(78): error C2681: 'Book *': invalid expression type for dynamic_cast
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(86): error C2681: 'Book *': invalid expression type for dynamic_cast
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(97): error C2027: use of undefined type 'Book'
+  c:\users\user\dropbox\cs 1410\project 5\project 5\book.h(3): note: see declaration of 'Book'
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(97): error C2227: left of '->writeData' must point to class/struct/union/generic type
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(106): error C2079: 'b1' uses undefined class 'Book'
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(125): error C2065: 'OPEN_ERROR': undeclared identifier
+c:\users\user\dropbox\cs 1410\project 5\project 5\driver.cpp(125): error C3861: 'FileException': identifier not found
+  DigitalBook.cpp
+  Book.cpp
+  Author.cpp
+  AudioBook.cpp
+  Generating Code...

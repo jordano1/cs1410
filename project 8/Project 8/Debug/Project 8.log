@@ -1,0 +1,7 @@
+﻿  driver.cpp
+c:\users\rhuud\dropbox\cs 1410\project 8\project 8\myvector.h(167): warning C4244: 'return': conversion from 'double' to 'const int', possible loss of data
+  c:\users\rhuud\dropbox\cs 1410\project 8\project 8\myvector.h(161): note: while compiling class template member function 'const int MyVector<double>::at(const int &) const'
+  c:\users\rhuud\dropbox\cs 1410\project 8\project 8\myvector.h(181): note: see reference to function template instantiation 'const int MyVector<double>::at(const int &) const' being compiled
+  c:\users\rhuud\dropbox\cs 1410\project 8\project 8\driver.cpp(13): note: see reference to class template instantiation 'MyVector<double>' being compiled
+  Project 8.vcxproj -> C:\Users\rhuud\Dropbox\cs 1410\Project 8\Debug\Project 8.exe
+  Project 8.vcxproj -> C:\Users\rhuud\Dropbox\cs 1410\Project 8\Debug\Project 8.pdb (Partial PDB)

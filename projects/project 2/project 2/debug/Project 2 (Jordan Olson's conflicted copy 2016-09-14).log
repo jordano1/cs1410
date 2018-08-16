@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\dropbox\cs 1410\projects\project 2\project 2\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Project 2.vcxproj -> C:\Users\User\Dropbox\cs 1410\projects\Project 2\Debug\Project 2.exe
+  Project 2.vcxproj -> C:\Users\User\Dropbox\cs 1410\projects\Project 2\Debug\Project 2.pdb (Partial PDB)
